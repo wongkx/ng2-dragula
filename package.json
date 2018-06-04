@@ -1,7 +1,8 @@
 {
-	"main": "index.js",
+	"main": "bundles/ng2-dragula.umd.js",
 	"version": "1.3.1",
 	"description": "Simple drag and drop with dragula",
+	"module": "index.js",
 	"typings": "index.d.ts",
 	"keywords": [
 		"angular",
